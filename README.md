@@ -20,9 +20,16 @@
 
 目录：
 
-- bash学习笔记
-- 常用命令
-
+- [bash学习笔记](https://github.com/ctimbai/linuxtools-notes/blob/master/bash.md)
+- [常用命令](https://github.com/ctimbai/linuxtools-notes/blob/master/linux-summary.md)
 - 基础命令
+	- [ls](https://github.com/ctimbai/linuxtools-notes/blob/master/base/ls.md)
+	- [ps](https://github.com/ctimbai/linuxtools-notes/blob/master/base/ps.md)
+	- [find](https://github.com/ctimbai/linuxtools-notes/blob/master/base/find.md)
+- 进阶命令
+	- [awk](https://github.com/ctimbai/linuxtools-notes/blob/master/advance/awk.md)
+	- [grep](https://github.com/ctimbai/linuxtools-notes/blob/master/advance/grep.md)
+	- [sed](https://github.com/ctimbai/linuxtools-notes/blob/master/advance/sed.md)
 - 网络命令
+	- [tcpdump](https://github.com/ctimbai/linuxtools-notes/blob/master/network/tcpdump.md)
 
